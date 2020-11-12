@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="24.0dp"
+    android:height="24.0dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0">
+    <group android:pivotX="11.931"
+        android:pivotY="12.766"
+        android:scaleY="0.348"
+        android:rotation="-0.000">
+
+        <path
+            android:strokeWidth="0.24"
+            android:strokeLineJoin="miter"
+            android:fillType="nonZero"
+            android:strokeLineCap="square"
+            android:pathData="M11.93,3.76C16.90,3.76,20.94,7.79,20.94,12.77C20.94,17.74,16.90,21.77,11.93,21.77C6.96,21.77,2.93,17.74,2.93,12.77C2.93,7.79,6.96,3.76,11.93,3.76z">
+            <aapt:attr name="android:strokeColor">
+                <gradient
+                    android:startX="2.926"
+                    android:startY="3.761"
+                    android:endX="20.936"
+                    android:endY="21.771"
+                    android:type="linear">
+                    <item
+                        android:color="#FF0000"
+                        android:offset="0.000"/>
+                    <item
+                        android:color="#FF0000"
+                        android:offset="1.000" />
+
+                </gradient>
+            </aapt:attr>
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:centerX="11.931"
+                    android:centerY="12.766"
+                    android:gradientRadius="9.005"
+                    android:type="radial">
+                    <item
+                        android:color="#DD8A001B"
+                        android:offset="0.000" />
+                    <item
+                        android:color="#F9911500"
+                        android:offset="0.500" />
+                    <item
+                        android:color="#FA530000"
+                        android:offset="1.000" />
+                </gradient>
+            </aapt:attr>
+
+        </path>
+    </group>
+</vector>
